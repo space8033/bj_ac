@@ -17,7 +17,7 @@ public class ac5_2 {
 			a[i] = Integer.parseInt(st.nextToken());
 		}
 		
-		for(int i=1; i <970200; i++) {
+		for(int i=1; i <970201; i++) {
 			int cnt = 0;
 			for(int j=0; j<5; j++) {
 				if(i%a[j] == 0) {

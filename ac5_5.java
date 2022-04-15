@@ -46,3 +46,5 @@ public class ac5_5 {
 	}
 
 }
+// gg 뭐가 틀린지 모르겠음
+
